@@ -1,0 +1,418 @@
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\package.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\oclif.manifest.json +4ms
+  @oclif/config:sfdx-cli using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\oclif.manifest.json +0ms
+  @oclif/config reading user plugins pjson C:\Users\LindsayHolmes\AppData\Local\sfdx\package.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\package.json +22ms
+  @oclif/config loading plugins [
+  { name: '@salesforce/sfdx-diff', tag: 'latest', type: 'user' },
+  { name: '@salesforce/lwc-dev-server', tag: 'latest', type: 'user' }
+] +2ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\package.json\package.json +3ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\package.json\package.json +1ms
+  @oclif/config reading user plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\sfdx-diff +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\sfdx-diff\package.json +1ms
+  @oclif/config reading user plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\sfdx-diff\oclif.manifest.json +25ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\.oclif.manifest.json +1ms
+  @oclif/config:@salesforce/lwc-dev-server loading IDs from C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\dist\cli\commands +0ms
+  snapdragon:compiler initializing C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\snapdragon\lib\compiler.js +0ms
+  snapdragon:parser initializing C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\snapdragon\lib\parser.js +16ms
+  snapdragon:compiler initializing C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\snapdragon\lib\compiler.js +7ms
+  snapdragon:parser initializing C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\snapdragon\lib\parser.js +0ms
+  @oclif/config:@salesforce/lwc-dev-server found commands [ 'force:lightning:lwc:start' ] +36ms
+  @oclif/config:@salesforce/lwc-dev-server require C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\dist\cli\commands\force\lightning\lwc\start.js +4ms
+  @oclif/config loading plugins [ '@oclif/plugin-help', '@oclif/plugin-update' ] +3s
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\package.json +3s
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\lwc-dev-server\package.json +1ms
+  @oclif/config:@salesforce/sfdx-diff using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\sfdx-diff\oclif.manifest.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\package.json +49ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@salesforce\package.json +3ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\package.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\package.json +1ms
+  @oclif/config reading user plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-update +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-update\package.json +1ms
+  @oclif/config reading user plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-help +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-help\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-update\oclif.manifest.json +35ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-help\oclif.manifest.json +27ms
+  @oclif/config:@oclif/plugin-update using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-update\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-help using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-help\oclif.manifest.json +0ms
+  @oclif/config loading plugins [
+  '@oclif/plugin-autocomplete',
+  '@oclif/plugin-commands',
+  '@oclif/plugin-help',
+  '@oclif/plugin-not-found',
+  '@oclif/plugin-plugins',
+  '@oclif/plugin-update',
+  '@oclif/plugin-warn-if-update-available',
+  '@oclif/plugin-which',
+  '@salesforce/plugin-generator',
+  '@salesforce/plugin-analytics',
+  '@salesforce/sfdx-trust',
+  'salesforcedx'
+] +122ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-autocomplete +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-autocomplete\package.json +31ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-commands +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-commands\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-help +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-help\package.json +0ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-plugins +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-plugins\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-update +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-update\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-which +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-which\package.json +0ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-trust +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-trust\package.json +2ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\package.json +26ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-autocomplete\oclif.manifest.json +2ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-help\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-plugins\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-update\oclif.manifest.json +31ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-commands\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-which\oclif.manifest.json +3ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\oclif.manifest.json +28ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-trust\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics\oclif.manifest.json +2ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\.oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\oclif.manifest.json +3ms
+  @oclif/config:@oclif/plugin-help using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-help\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-not-found using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-autocomplete using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-autocomplete\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-plugins using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-plugins\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-warn-if-update-available using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\oclif.manifest.json +0ms    
+  @oclif/config:@oclif/plugin-update using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-update\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-commands using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-commands\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-which using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-which\oclif.manifest.json +0ms
+  @oclif/config:@salesforce/sfdx-trust using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-trust\oclif.manifest.json +0ms
+  @oclif/config:@salesforce/plugin-analytics using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics\oclif.manifest.json +0ms
+  @oclif/config:@salesforce/plugin-generator using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\.oclif.manifest.json +0ms
+  @oclif/config loading plugins [
+  '@oclif/plugin-help',
+  '@oclif/plugin-warn-if-update-available',
+  '@oclif/plugin-not-found'
+] +271ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\package.json +137ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\package.json +0ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\node_modules\@oclif\plugin-help +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\node_modules\@oclif\plugin-help\package.json +1ms
+  @oclif/config:salesforcedx using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\oclif.manifest.json +0ms
+  @oclif/config loading plugins [
+  'salesforce-alm',
+  'salesforcedx-templates',
+  '@salesforce/sfdx-plugin-lwc-test',
+  '@salesforce/plugin-custom-metadata'
+] +7ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\package.json +2ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\package.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx\package.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\node_modules\@oclif\plugin-help\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\package.json +26ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\package.json +0ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx-templates +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx-templates\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\package.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\package.json +0ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-plugin-lwc-test +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-plugin-lwc-test\package.json +1ms
+  @oclif/config reading core plugin C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-custom-metadata +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-custom-metadata\package.json +0ms
+  @oclif/config:@oclif/plugin-help using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-generator\node_modules\@oclif\plugin-help\oclif.manifest.json +0ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\oclif.manifest.json +2ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\oclif.manifest.json +34ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found\oclif.manifest.json +26ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx-templates\oclif.manifest.json +3ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-plugin-lwc-test\oclif.manifest.json +1ms
+  @oclif/config loadJSON C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-custom-metadata\oclif.manifest.json +1ms
+  @oclif/config:@oclif/plugin-warn-if-update-available using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\oclif.manifest.json +0ms    
+  @oclif/config:salesforce-alm using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\oclif.manifest.json +0ms
+  @oclif/config:@oclif/plugin-not-found using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-not-found\oclif.manifest.json +0ms
+  @oclif/config:@salesforce/sfdx-plugin-lwc-test using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\sfdx-plugin-lwc-test\oclif.manifest.json +0ms
+  @oclif/config:salesforcedx-templates using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforcedx-templates\oclif.manifest.json +0ms
+  @oclif/config:@salesforce/plugin-custom-metadata using manifest from C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-custom-metadata\oclif.manifest.json +0ms
+  @oclif/config config done +141ms
+  sfdx                        OS: +0ms
+  sfdx                  platform: win32 +30ms
+  sfdx              architecture: x64 +0ms
+  sfdx                   release: 10.0.18363 +1ms
+  sfdx                     shell: cmd.exe +31ms
+  sfdx                      NODE: +1ms
+  sfdx                   version: 12.13.0 +0ms
+  sfdx                       CLI: +1ms
+  sfdx                   version: 7.65.6-23e8b7f47e +1ms
+  sfdx                   channel: stable +32ms
+  sfdx                       bin: sfdx +0ms
+  sfdx                      data: C:\Users\LindsayHolmes\AppData\Local\sfdx +32ms
+  sfdx                     cache: C:\Users\LindsayHolmes\AppData\Local\sfdx +1ms
+  sfdx                    config: C:\Users\LindsayHolmes\AppData\Local\sfdx +0ms
+  sfdx                       ENV: +2ms
+  sfdx              NODE_OPTIONS: <not set> +30ms
+  sfdx   SFDX_AUTOUPDATE_DISABLE: <not set> +0ms
+  sfdx              SFDX_BINPATH: "C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\bin\sfdx.cmd" +0ms
+  sfdx        SFDX_COMPILE_CACHE: <not set> +1ms
+  sfdx   SFDX_DISABLE_AUTOUPDATE: <not set> +0ms
+  sfdx                  SFDX_ENV: development +0ms
+  sfdx            SFDX_INSTALLER: true +1ms
+  sfdx    SFDX_LAZY_LOAD_MODULES: true +0ms
+  sfdx         SFDX_NPM_REGISTRY: <not set> +24ms
+  sfdx           SFDX_REDIRECTED: 1 +0ms
+  sfdx              SFDX_S3_HOST: <not set> +0ms
+  sfdx  SFDX_UPDATE_INSTRUCTIONS: <not set> +1ms
+  sfdx                      ARGS: +0ms
+  sfdx                         0: C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\bin\node.exe +0ms
+  sfdx                         1: C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\bin\sfdx.js +1ms
+  sfdx                         2: force:source:deploy +0ms
+  sfdx                         3: --sourcepath +0ms
+  sfdx                         4: c:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\force-app\main\default\lwc\ssf\ssf.css +0ms
+  lazy-require loading type cache from C:\Users\LindsayHolmes\AppData\Local\sfdx\module-types.json +0ms
+  lazy-require loaded type cache +1ms
+  lazy-require parsing type cache +0ms
+  lazy-require parsed type cache +1ms
+  lazy-require enabled +1ms
+  @oclif/config start init hook +199ms
+  sfdx:@oclif/plugin-update:hooks:init start C:\Users\LindsayHolmes\AppData\Local\sfdx\node_modules\@oclif\plugin-update\lib\hooks\init +0ms
+  sfdx:@oclif/plugin-warn-if-update-available:hooks:init start C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\plugin-warn-if-update-available\lib\hooks\init\check-update +0ms
+  sfdx:@salesforce/plugin-analytics:hooks:init start C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics\lib\hooks\analyticsInit.js +0ms
+  sfdx:@salesforce/plugin-analytics:hooks:init done +1ms
+  sfdx:@oclif/plugin-warn-if-update-available:hooks:init done +58ms
+  sfdx:@oclif/plugin-update:hooks:init done +132ms
+  @oclif/config init hook done +138ms
+  sfdx init version: @oclif/command@1.6.1 argv: [ 'force:source:deploy', '--sourcepath', 'c:\\Users\\LindsayHolmes\\Nextcloud\\VsCode\\BlueWaveSolar\\force-app\\main\\default\\lwc\\ssf\\ssf.css' ] +0ms
+  @oclif/config runCommand force:source:deploy [ '--sourcepath', 'c:\\Users\\LindsayHolmes\\Nextcloud\\VsCode\\BlueWaveSolar\\force-app\\main\\default\\lwc\\ssf\\ssf.css' ] +16ms
+  @oclif/config:salesforce-alm require C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\dist\commands\force\source\deploy.js +408ms
+  @oclif/config start prerun hook +423ms
+  sfdx:@salesforce/plugin-analytics:hooks:prerun start C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics\lib\hooks\analyticsPrerun.js +0ms
+  sfdx:core TRACE Setup child 'Config' logger instance +0ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +0ms
+  sfdx:core TRACE Setup child 'Config' logger instance +3ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +3ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +1ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +0ms
+  sfdx:analytics Usage acknowledgement file already exists +0ms
+  sfdx:analytics Using analytics logging file C:\Users\LINDSA~1\AppData\Local\Temp\sfdx-analytics\analytics-303ee234aebd775ca616b7e709cb1871c0118391.log +1ms
+  sfdx:@salesforce/plugin-analytics:hooks:prerun done +138ms
+  @oclif/config prerun hook done +140ms
+  sfdx:core TRACE Setup child 'SourceDeployCommand' logger instance +41ms
+  sfdx:force:source:deploy init version: @oclif/command@1.7.0 argv: [ '--sourcepath', 'c:\\Users\\LindsayHolmes\\Nextcloud\\VsCode\\BlueWaveSolar\\force-app\\main\\default\\lwc\\ssf\\ssf.css' ] +0ms
+  sfdx:SourceDeployCommand INFO Running command [SourceDeployCommand] with flags [{"sourcepath":["c:\\Users\\LindsayHolmes\\Nextcloud\\VsCode\\BlueWaveSolar\\force-app\\main\\default\\lwc\\ssf\\ssf.css"],"loglevel":"warn","wait":{"quantity":33,"unit":0}}] and args [{}] +0ms
+  sfdx:core TRACE Setup child 'Config' logger instance +34ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +73ms
+  sfdx:core TRACE Setup child 'Config' logger instance +3ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +31ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +1ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +1ms
+  sfdx:core TRACE Setup child 'Org' logger instance +36ms
+  sfdx:core TRACE Setup child 'Aliases' logger instance +107ms
+  sfdx:Aliases INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\alias.json +0ms
+  sfdx:core TRACE Setup child 'AuthInfo' logger instance +33ms
+  sfdx:core TRACE Setup child 'crypto' logger instance +38ms
+  sfdx:crypto DEBUG retryStatus: undefined +0ms
+  sfdx:core TRACE Setup child 'keyChain' logger instance +26ms
+  sfdx:keyChain DEBUG platform: win32 +0ms
+  sfdx:core TRACE Setup child 'KeychainConfig' logger instance +2ms
+  sfdx:KeychainConfig INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\key.json +0ms
+  sfdx:core TRACE Setup child 'AuthInfoConfig' logger instance +2ms
+  sfdx:AuthInfoConfig INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\lindsay.holmes@bluewavesolar.com.jeff.json +0ms
+  sfdx:AuthInfo INFO Updated auth info for username: lindsay.holmes@bluewavesolar.com.jeff +0ms
+  sfdx:core TRACE Setup child 'Config' logger instance +3ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +241ms
+  sfdx:core TRACE Setup child 'Config' logger instance +26ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +3ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +0ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +1ms
+  sfdx:AuthInfo INFO Returning fields for a connection using OAuth config. +30ms
+  sfdx:core TRACE Setup child 'connection' logger instance +6ms
+  sfdx:connection DEBUG request: {"method":"GET","url":"https://bluewavesolar--jeff.my.salesforce.com/services/data","headers":{"content-type":"application/json","user-agent":"sfdx toolbelt:"}} +0ms
+  sfdx:connection DEBUG <request> method=GET, url=https://bluewavesolar--jeff.my.salesforce.com/services/data +1ms
+  sfdx:connection DEBUG elappsed time : 331msec +332ms
+  sfdx:connection DEBUG <response> status=200, url=https://bluewavesolar--jeff.my.salesforce.com/services/data +1ms
+  sfdx:connection DEBUG response for org versions: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object] +1ms
+  sfdx:core TRACE Setup child 'Config' logger instance +601ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +606ms
+  sfdx:core TRACE Setup child 'Config' logger instance +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +20ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +1ms
+  sfdx:core TRACE Setup child 'SourceDeployApi' logger instance +288ms
+  sfdx:core TRACE Setup child 'SourceDeployApi' logger instance +2ms
+  sfdx:SourceDeployApi DEBUG mode: 1 +0ms
+  sfdx:core TRACE Setup child 'SourceWorkspaceAdapter' logger instance +24ms
+  sfdx:core TRACE Setup child 'SourcePathStatusManager' logger instance +11ms
+  sfdx:core TRACE Setup child 'FileMoves' logger instance +22ms
+  sfdx:core TRACE Setup child 'Workspace' logger instance +1ms
+  sfdx:core TRACE Setup child 'Workspace' logger instance +5ms
+  sfdx:Workspace INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\orgs\lindsay.holmes@bluewavesolar.com.jeff\sourcePathInfos.json +0ms
+  sfdx:Workspace DEBUG Initializing stateless workspace +1ms
+  sfdx:core TRACE Setup child 'SourceLocations' logger instance +33ms
+  sfdx:SourceWorkspaceAdapter DEBUG this.wsPath: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar +0ms
+  sfdx:SourceWorkspaceAdapter DEBUG this.defaultPackagePath: force-app +1ms
+  sfdx:SourceWorkspaceAdapter DEBUG this.defaultSrcDir: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\force-app\main\default +1ms
+  sfdx:SourceWorkspaceAdapter DEBUG this.fromConvert: true +0ms
+  sfdx:SourceWorkspaceAdapter DEBUG this.isStateless: true +1ms
+  sfdx:core TRACE Setup child 'SourceUtil' logger instance +26ms
+  sfdx:SourceUtil INFO Created output directory 'C:\Users\LINDSA~1\AppData\Local\Temp\sdx_sourceDeploy_1594860953708' +0ms
+  sfdx:SourceDeployApi INFO Deploying metadata in sourcepath 'c:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\force-app\main\default\lwc\ssf\ssf.css' from org: 'lindsay.holmes@bluewavesolar.com.jeff' +128ms
+  sfdx:core TRACE Setup child 'SourceUtil' logger instance +51ms
+  sfdx:SourceUtil INFO Created output directory 'C:\Users\LINDSA~1\AppData\Local\Temp\sdx_sourceDelete_1594860953767' +51ms
+  sfdx:core TRACE Setup child 'SourceUtil' logger instance +16ms
+  sfdx:SourceUtil INFO Created output directory 'C:\Users\LINDSA~1\AppData\Local\Temp\sdx_decomposition_1594860953774' +4ms
+  sfdx:core TRACE Setup child 'SourceUtil' logger instance +17ms
+  sfdx:core TRACE Setup child 'Config' logger instance +150ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +625ms
+  sfdx:core TRACE Setup child 'Config' logger instance +3ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +27ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +1ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +0ms
+  sfdx:core TRACE Setup child 'Config' logger instance +383ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +358ms
+  sfdx:core TRACE Setup child 'Config' logger instance +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +20ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +2ms
+Job ID | 0Af2C00000ZIL6CSAX
+SOURCE PROGRESS | ████████████████████░░░░░░░░░░░░░░░░░░░░ | 1/2 Components
+  sfdx:core TRACE Setup child 'SourceUtil' logger instance +31s
+  sfdx:core TRACE Setup child 'SourceUtil' logger instance +2ms
+TYPE   PROJECT PATH  PROBLEM
+─────  ────────────  ────────────────────────────────────────────────────────────────────────────────────────────
+Error                No MODULE named markup://c:ssfStyleLibrary found : [markup://c:ssf, markup://c:ssfBasicInfo]
+  sfdx:SourceDeployCommand INFO [
+  sfdx:SourceDeployCommand   {
+  sfdx:SourceDeployCommand     error: 'No MODULE named markup://c:ssfStyleLibrary found : [markup://c:ssf, markup://c:ssfBasicInfo]',
+  sfdx:SourceDeployCommand     fullName: 'ssf\\ssf.js',
+  sfdx:SourceDeployCommand     type: 'LightningComponentBundle',
+  sfdx:SourceDeployCommand     filePath: null,
+  sfdx:SourceDeployCommand     problemType: 'Error',
+  sfdx:SourceDeployCommand     height: 1
+  sfdx:SourceDeployCommand   }
+  sfdx:SourceDeployCommand ] +33s
+  sfdx:core TRACE Setup child 'SfdxProjectJson' logger instance +49ms
+  sfdx:SfdxProjectJson INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-project.json +0ms
+  sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance +2ms
+  sfdx:SchemaValidator DEBUG Schema loaded for C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\schemas\sfdx-project.schema.json +0ms
+  sfdx:SfdxProjectJson WARN The config file: C:\Users\LindsayHolmes\.sfdx\sfdx-project.json is not schema valid
+  sfdx:SfdxProjectJson Due to: Validation errors:
+  sfdx:SfdxProjectJson should have required property 'packageDirectories' +21ms
+  sfdx:core TRACE Setup child 'SfdxProjectJson' logger instance +59ms
+  sfdx:SfdxProjectJson INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\sfdx-project.json +13ms
+  sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance +1ms
+  sfdx:SchemaValidator DEBUG Schema loaded for C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\schemas\sfdx-project.schema.json +34ms
+  sfdx:SfdxProjectJson INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-project.json +7ms
+  sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance +23ms
+  sfdx:SchemaValidator DEBUG Schema loaded for C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\schemas\sfdx-project.schema.json +30ms
+  sfdx:SfdxProjectJson WARN The config file: C:\Users\LindsayHolmes\.sfdx\sfdx-project.json is not schema valid
+  sfdx:SfdxProjectJson Due to: Validation errors:
+  sfdx:SfdxProjectJson should have required property 'packageDirectories' +4ms
+  sfdx:SfdxProjectJson INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\sfdx-project.json +2ms
+  sfdx:SfdxProjectJson TRACE Setup child 'SchemaValidator' logger instance +2ms
+  sfdx:SchemaValidator DEBUG Schema loaded for C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\schemas\sfdx-project.schema.json +8ms
+  sfdx:core TRACE Setup child 'Config' logger instance +69ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +31s
+  sfdx:core TRACE Setup child 'Config' logger instance +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +1ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +0ms
+ERROR running force:source:deploy:  Deploy failed. 
+*** Internal Diagnostic ***
+
+DeployFailed: Deploy failed.
+    at C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\dist\lib\source\sourceApiCommand.js:74:31
+    at processImmediate (internal/timers.js:439:21)
+From previous event:
+    at SourceApiCommand.execute (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\dist\lib\source\sourceApiCommand.js:59:19)
+    at SourceDeployCommand.execLegacyCommand (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\dist\ToolbeltCommand.js:148:43)
+    at async SourceDeployCommand.run (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\dist\commands\force\source\deploy.js:27:16)
+    at async SourceDeployCommand._run (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\salesforce-alm\node_modules\@salesforce\command\lib\sfdxCommand.js:93:40)
+    at async Config.runCommand (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\config\lib\config.js:172:9)
+    at async Main.run (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\command\lib\main.js:22:9)
+    at async Main._run (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@oclif\command\lib\command.js:43:20)
+    at async Object.run (C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\dist\cli.js:32:20)
+******
+
+  sfdx:SourceDeployCommand ERROR [
+  sfdx:SourceDeployCommand   '\u001b[1mERROR running force:source:deploy: \u001b[22m',
+  sfdx:SourceDeployCommand   '\u001b[31mDeploy failed.\u001b[39m',
+  sfdx:SourceDeployCommand   '\u001b[31m\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m*** Internal Diagnostic ***\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31mDeployFailed: Deploy failed.\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\dist\\lib\\source\\sourceApiCommand.js:74:31\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at processImmediate (internal/timers.js:439:21)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31mFrom previous event:\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at SourceApiCommand.execute (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\dist\\lib\\source\\sourceApiCommand.js:59:19)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at SourceDeployCommand.execLegacyCommand (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\dist\\ToolbeltCommand.js:148:43)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at async SourceDeployCommand.run (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\dist\\commands\\force\\source\\deploy.js:27:16)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at async SourceDeployCommand._run (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\@salesforce\\command\\lib\\sfdxCommand.js:93:40)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at async Config.runCommand (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\@oclif\\config\\lib\\config.js:172:9)\u001b[39m\n' +       
+  sfdx:SourceDeployCommand     '\u001b[31m    at async Main.run (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\@oclif\\command\\lib\\main.js:22:9)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at async Main._run (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\@oclif\\command\\lib\\command.js:43:20)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m    at async Object.run (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\dist\\cli.js:32:20)\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m******\u001b[39m\n' +
+  sfdx:SourceDeployCommand     '\u001b[31m\u001b[39m'
+  sfdx:SourceDeployCommand ] +201ms
+  sfdx:core TRACE Setup child 'Org' logger instance +66ms
+  sfdx:core TRACE Setup child 'Config' logger instance +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +68ms
+  sfdx:core TRACE Setup child 'Config' logger instance +66ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +65ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +1ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +28ms
+  sfdx:core TRACE Setup child 'Aliases' logger instance +32ms
+  sfdx:Aliases INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\alias.json +33s
+  sfdx:core TRACE Setup child 'AuthInfo' logger instance +3ms
+  sfdx:core TRACE Setup child 'crypto' logger instance +5ms
+  sfdx:crypto DEBUG retryStatus: undefined +33s
+  sfdx:core TRACE Setup child 'keyChain' logger instance +25ms
+  sfdx:keyChain DEBUG platform: win32 +33s
+  sfdx:core TRACE Setup child 'KeychainConfig' logger instance +2ms
+  sfdx:KeychainConfig INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\key.json +33s
+  sfdx:AuthInfo INFO Updated auth info for username: lindsay.holmes@bluewavesolar.com.jeff +33s
+  sfdx:core TRACE Setup child 'Config' logger instance +29ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +67ms
+  sfdx:core TRACE Setup child 'Config' logger instance +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +2ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\.sfdx\sfdx-config.json +0ms
+  sfdx:Config INFO Reading config file: C:\Users\LindsayHolmes\Nextcloud\VsCode\BlueWaveSolar\.sfdx\sfdx-config.json +1ms
+  sfdx:AuthInfo INFO Returning fields for a connection using OAuth config. +28ms
+  sfdx:core TRACE Setup child 'connection' logger instance +28ms
+  sfdx:connection DEBUG request: {"method":"GET","url":"https://bluewavesolar--jeff.my.salesforce.com/services/data","headers":{"content-type":"application/json","user-agent":"sfdx toolbelt:"}} +32s
+  sfdx:connection DEBUG <request> method=GET, url=https://bluewavesolar--jeff.my.salesforce.com/services/data +1ms
+  sfdx:connection DEBUG elappsed time : 174msec +175ms
+  sfdx:connection DEBUG <response> status=200, url=https://bluewavesolar--jeff.my.salesforce.com/services/data +1ms
+  sfdx:connection DEBUG response for org versions: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object] +1ms
+  sfdx:connection DEBUG >>> Query start >>> +21ms
+  sfdx:connection DEBUG SOQL = SELECT CreatedDate,Edition,ExpirationDate FROM ActiveScratchOrg WHERE ScratchOrg='00D2C000000D48C' +1ms
+  sfdx:connection DEBUG request: {"method":"GET","url":"https://bluewavesolar--jeff.my.salesforce.com/services/data/v49.0/query?q=SELECT%20CreatedDate%2CEdition%2CExpirationDate%20FROM%20ActiveScratchOrg%20WHERE%20ScratchOrg%3D'00D2C000000D48C'","headers":{"content-type":"application/json","user-agent":"sfdx toolbelt:"}} +0ms
+  sfdx:connection DEBUG <request> method=GET, url=https://bluewavesolar--jeff.my.salesforce.com/services/data/v49.0/query?q=SELECT%20CreatedDate%2CEdition%2CExpirationDate%20FROM%20ActiveScratchOrg%20WHERE%20ScratchOrg%3D'00D2C000000D48C' +1ms
+  sfdx:connection DEBUG elappsed time : 203msec +204ms
+  sfdx:connection DEBUG <response> status=400, url=https://bluewavesolar--jeff.my.salesforce.com/services/data/v49.0/query?q=SELECT%20CreatedDate%2CEdition%2CExpirationDate%20FROM%20ActiveScratchOrg%20WHERE%20ScratchOrg%3D'00D2C000000D48C' +1ms
+  sfdx:connection DEBUG --- Query error --- +2ms
+  lazy-require saving type cache to C:\Users\LindsayHolmes\AppData\Local\sfdx\module-types.json +34s
+  lazy-require no changes to save +1ms
+  sfdx:analytics Spawning "C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\bin\node.exe C:\Users\LindsayHolmes\AppData\Local\sfdx\client\7.65.6-23e8b7f47e\node_modules\@salesforce\plugin-analytics\processes\upload C:\Users\LindsayHolmes\AppData\Local\sfdx C:\Users\LINDSA~1\AppData\Local\Temp\sfdx-analytics\analytics-303ee234aebd775ca616b7e709cb1871c0118391.log" +34s

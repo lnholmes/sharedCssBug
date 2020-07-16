@@ -1,0 +1,27 @@
+
+  "status": 1,
+  "result": [
+    {
+      "error": "No MODULE named markup://c:ssfStyleLibrary found : [markup://c:ssf, markup://c:ssfBasicInfo]",
+      "fullName": "ssf\\ssf.js",
+      "type": "LightningComponentBundle",
+      "filePath": null,
+      "problemType": "Error"
+    }
+  ],
+  "name": "DeployFailed",
+  "message": "Deploy failed.",
+  "exitCode": 1,
+  "actions": [],
+  "commandName": "SourceDeployCommand",
+  "data": [
+    {
+      "error": "No MODULE named markup://c:ssfStyleLibrary found : [markup://c:ssf, markup://c:ssfBasicInfo]",
+      "fullName": "ssf\\ssf.js",
+      "type": "LightningComponentBundle",
+      "filePath": null,
+      "problemType": "Error"
+    }
+  ],
+  "stack": "DeployFailed: Deploy failed.\n    at C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\dist\\lib\\source\\sourceApiCommand.js:74:31\n    at tryCatcher (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\util.js:16:23)\n    at Promise._settlePromiseFromHandler (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\promise.js:517:31)\n    at Promise._settlePromise (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\promise.js:574:18)\n    at Promise._settlePromise0 (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\promise.js:619:10)\n    at Promise._settlePromises (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\promise.js:695:18)\n    at _drainQueueStep (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\async.js:138:12)\n    at _drainQueue (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\async.js:131:9)\n    at Async._drainQueues (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\async.js:147:5)\n    at Immediate.Async.drainQueues [as _onImmediate] (C:\\Users\\LindsayHolmes\\AppData\\Local\\sfdx\\client\\7.65.6-23e8b7f47e\\node_modules\\salesforce-alm\\node_modules\\bluebird\\js\\release\\async.js:17:14)\n    at processImmediate (internal/timers.js:439:21)",
+  "warnings": []
